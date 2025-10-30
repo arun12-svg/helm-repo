@@ -3,7 +3,7 @@ entries:
   spark:
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T08:11:01.781177804Z"
+    created: "2025-10-30T08:16:54.596946691Z"
     description: Spark RBAC setup for Kubernetes (Spark 3.5.5)
     digest: b0b95e6810b6135103a5d834f1baa3ec85447e2bb402648fffd1895ea4fb8963
     name: spark
@@ -14,7 +14,7 @@ entries:
   spark-cluster:
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T08:11:01.783144932Z"
+    created: "2025-10-30T08:16:54.598615016Z"
     description: A Helm chart for Apache Spark on Kubernetes
     digest: d1e4260a923beee2467b62fbc393c0b24ffa63857452b3ab441894fb6c58f962
     name: spark-cluster
@@ -24,11 +24,11 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T08:11:01.782278558Z"
+    created: "2025-10-30T08:16:54.597837548Z"
     description: A Helm chart for Apache Spark on Kubernetes
     digest: a9e068bbea04d07ef7bb7e431f04c161a95ab533aec0f988cf3816c5cddfe34b
     name: spark-cluster
     urls:
     - https://arun12-svg.github.io/helm-repo/charts/spark-cluster-1.0.0.tgz
     version: 1.0.0
-generated: "2025-10-30T08:11:01.780517144Z"
+generated: "2025-10-30T08:16:54.596284945Z"
