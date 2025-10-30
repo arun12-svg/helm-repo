@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  spark-cluster:
+  - apiVersion: v2
+    appVersion: 3.5.5
+    created: "2025-10-30T06:18:12.863249797Z"
+    description: A Helm chart for Apache Spark on Kubernetes
+    digest: a9e068bbea04d07ef7bb7e431f04c161a95ab533aec0f988cf3816c5cddfe34b
+    name: spark-cluster
+    urls:
+    - https://arun12-svg.github.io/helm-repo/charts/spark-cluster-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-10-30T06:18:12.862492147Z"
