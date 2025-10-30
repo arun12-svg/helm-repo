@@ -3,9 +3,9 @@ entries:
   spark-cluster:
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T06:37:17.400350978Z"
+    created: "2025-10-30T06:44:08.177895888Z"
     description: A Helm chart for Apache Spark on Kubernetes
-    digest: c8ba02d7ef2783c66e6366bad830789bb15476ca67b8e342f1e0546902b1db61
+    digest: d1e4260a923beee2467b62fbc393c0b24ffa63857452b3ab441894fb6c58f962
     name: spark-cluster
     type: application
     urls:
@@ -13,11 +13,11 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T06:37:17.399884699Z"
+    created: "2025-10-30T06:44:08.177404816Z"
     description: A Helm chart for Apache Spark on Kubernetes
     digest: a9e068bbea04d07ef7bb7e431f04c161a95ab533aec0f988cf3816c5cddfe34b
     name: spark-cluster
     urls:
     - charts/spark-cluster-1.0.0.tgz
     version: 1.0.0
-generated: "2025-10-30T06:37:17.399132281Z"
+generated: "2025-10-30T06:44:08.176593582Z"
