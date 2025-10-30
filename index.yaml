@@ -1,23 +1,34 @@
 apiVersion: v1
 entries:
+  spark:
+  - apiVersion: v2
+    appVersion: 3.5.5
+    created: "2025-10-30T07:52:26.750749857Z"
+    description: Spark RBAC setup for Kubernetes (Spark 3.5.5)
+    digest: b0b95e6810b6135103a5d834f1baa3ec85447e2bb402648fffd1895ea4fb8963
+    name: spark
+    type: application
+    urls:
+    - https://arun12-svg.github.io/helm-repo/spark-0.1.0.tgz
+    version: 0.1.0
   spark-cluster:
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T06:44:08.177895888Z"
+    created: "2025-10-30T07:52:26.7517789Z"
     description: A Helm chart for Apache Spark on Kubernetes
     digest: d1e4260a923beee2467b62fbc393c0b24ffa63857452b3ab441894fb6c58f962
     name: spark-cluster
     type: application
     urls:
-    - charts/spark-cluster-1.0.1.tgz
+    - https://arun12-svg.github.io/helm-repo/charts/spark-cluster-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: 3.5.5
-    created: "2025-10-30T06:44:08.177404816Z"
+    created: "2025-10-30T07:52:26.751317056Z"
     description: A Helm chart for Apache Spark on Kubernetes
     digest: a9e068bbea04d07ef7bb7e431f04c161a95ab533aec0f988cf3816c5cddfe34b
     name: spark-cluster
     urls:
-    - charts/spark-cluster-1.0.0.tgz
+    - https://arun12-svg.github.io/helm-repo/charts/spark-cluster-1.0.0.tgz
     version: 1.0.0
-generated: "2025-10-30T06:44:08.176593582Z"
+generated: "2025-10-30T07:52:26.75037601Z"
